@@ -1,13 +1,11 @@
 
 TITLE: 
-Fitness - 100% Fully Responsive Free HTML5 Bootstrap Template
+KPIE Technologies- 100% Fully Responsive HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FeeeHTML5.co
+DESIGNED & DEVELOPED by Idowu James
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
 
 
 CREDITS:
